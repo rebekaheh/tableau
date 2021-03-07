@@ -1,0 +1,7 @@
+The top 10 stations in the city for starting a journey are Grove St. Path, Sip Avenue, Newport Parkway, Hamilton Park, Marin Light Rail, Newport Path, Warren Street, Harborside, and Liverty Light Rail.
+
+Bike ID 46926 was ridden the most (214.6 hours), far beyond any other bike
+
+There is an enormous amount of customer users (1,054) born in 1969
+
+Customer users' average trip durations were significantly longer than subscribers'
